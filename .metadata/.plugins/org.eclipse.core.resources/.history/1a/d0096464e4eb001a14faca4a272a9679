@@ -1,0 +1,14 @@
+package com.imooc.method;
+
+public class ArrayDemo {
+	//求数组元素的平均值
+
+		public static void main(String[] args) {
+			//定义对象
+			
+			//创建float类型的数组并初始化
+			
+			//调用方法求平均值并打印输出
+			
+		}
+}
